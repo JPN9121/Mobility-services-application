@@ -1,0 +1,15 @@
+.text_color{
+    color: #af6565;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.form>*{
+    width: 150px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
